@@ -1,1 +1,2 @@
 flask
+863465541161.dkr.ecr.us-east-1.amazonaws.com/cicd-pipeline
